@@ -237,14 +237,6 @@ jupyter notebook water_potability.ipynb
 
 Run the cells from top to bottom (**Kernel → Restart & Run All**). Results are reproducible (seed 42 for the split, SMOTE, models and Optuna). The CSV file must stay in the same folder as the notebook.
 
-## 👩‍💻 Author
-
-**Assia El Atiqi**
-Master BIBDA — Business Intelligence & Big Data Analytics
-Faculté des Sciences, Université Chouaïb Doukkali, El Jadida, Morocco
-
-- LinkedIn: **[Add your LinkedIn profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)**
-- GitHub: **[YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)**
 
 ---
 
